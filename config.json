@@ -1,0 +1,10 @@
+{
+		"status": "1",
+		"url": "no",
+		"dia": "true",
+		"diatitle": "This is a dialog",
+		"diadesc": "With a so long description in name of my life",
+		"diaokurl": "https://www.google.com",
+		"dianourl": "no",
+                "diacancel": "true",
+}
