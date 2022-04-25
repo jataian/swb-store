@@ -1,10 +1,14 @@
 {
 		"status": "1",
 		"url": "no",
+                "version": "1",
 		"dia": "true",
 		"diatitle": "This is a dialog",
 		"diadesc": "With a so long description in name of my life",
 		"diaokurl": "https://www.google.com",
 		"dianourl": "no",
+                "diaok": "Ok",
+                "diano": "Cancel",
+                "diaimage": "no",
                 "diacancel": "true"
 }
