@@ -1,8 +1,8 @@
 {
-		"status": "1",
+		"status": "0",
 		"url": "no",
                 "version": "1",
-		"dia": "false",
+		"dia": "true",
 		"diatitle": "This Clucking dialgg",
 		"diadesc": "With a so long description in name of my life",
 		"diaokurl": "https://www.google.com",
